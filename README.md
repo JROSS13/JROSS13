@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Jarred. 
-- 👀 I’m interested in Network Automation. 
-- 🌱 I’m currently learning python for network engineers and working towards my CCNP. 
-- 💞️ I am pursuing my Master's in Network Engineering beginning in January. 
--     Interested in diverse network projects. 
+I’m interested in Network Automation. 
+
 - 📫 Feel free to ask me about anything. 
 
 Connect with me : 
